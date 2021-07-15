@@ -120,7 +120,6 @@ protected:
 	string g_Name;
 };
 
-
 int main()
 {
 	setlocale(LC_ALL, "Russian");
